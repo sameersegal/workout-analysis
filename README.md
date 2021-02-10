@@ -1,1 +1,3 @@
-# workout-analysis
+# Workout Analysis
+
+Analyzing my workout data
